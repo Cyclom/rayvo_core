@@ -1,0 +1,10 @@
+C:\Users\tilli\source\repos\LOMCore\LOMCoreShared\bin\Debug\LOMCoreShared.net.dll
+C:\Users\tilli\source\repos\LOMCore\LOMCoreShared\bin\Debug\LOMCoreShared.net.pdb
+C:\Users\tilli\source\repos\LOMCore\LOMCoreShared\obj\Debug\LOMCoreShared.csprojResolveAssemblyReference.cache
+C:\Users\tilli\source\repos\LOMCore\LOMCoreShared\obj\Debug\LOMCoreShared.csproj.CoreCompileInputs.cache
+C:\Users\tilli\source\repos\LOMCore\LOMCoreShared\obj\Debug\LOMCoreShared.net.dll
+C:\Users\tilli\source\repos\LOMCore\LOMCoreShared\obj\Debug\LOMCoreShared.net.pdb
+C:\Users\tilli\Desktop\Builds\LOMCoreShared.net.dll
+C:\Users\tilli\Desktop\Builds\LOMCoreShared.net.pdb
+C:\Users\tilli\Desktop\Server\Server\FXServer\server-data\resources\lom_core\LOMCoreShared.net.dll
+C:\Users\tilli\Desktop\Server\Server\FXServer\server-data\resources\lom_core\LOMCoreShared.net.pdb
